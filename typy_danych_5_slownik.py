@@ -37,4 +37,4 @@ print(dict2[key.lower().replace(" ", "")])
 
 a = input("Podaj pierwszą liczbe")
 b = input("Podaj druga liczbe")
-print(int(a) + int(b))
+print(int(a) + int(b))  # rzutowanie na int
