@@ -27,3 +27,6 @@ tupla2 = "Tomek", "Asia", "Zbyszek", "Marcin"
 imie1, *imie2, imie3 = tupla2
 print(imie2)  # ['Asia', 'Zbyszek']
 print(type(imie2))
+
+lista = list(tupla2)
+print(lista)  # ['Tomek', 'Asia', 'Zbyszek', 'Marcin']
