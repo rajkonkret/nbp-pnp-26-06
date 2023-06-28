@@ -19,3 +19,4 @@ print(type(kantor1))
 print(kantor1)
 kwota1 = int(input("Podaj kwote"))
 kantor1(kwota1)
+# Wymieniam dolary: 1000  = 4100.0 zł
