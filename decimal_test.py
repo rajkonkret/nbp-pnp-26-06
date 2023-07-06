@@ -38,7 +38,7 @@ print("Rachunek na osobę:", rachunek_na_osobe.quantize(precyzja2))  # Rachunek 
 import decimal
 
 # Ustawienie precyzji po przecinku na 4 miejsca
-precyzja = decimal.Decimal('0.0001')
+precyzja = decimal.Decimal('0.0000')
 
 # Przykład obliczeń z ustawioną precyzją po przecinku
 a = decimal.Decimal('1.2345')
