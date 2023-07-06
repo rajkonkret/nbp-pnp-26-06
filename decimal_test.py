@@ -47,4 +47,4 @@ c = a + b
 
 wynik = c.quantize(precyzja)
 
-print(wynik)  # Wynik: 3.5800
+print(wynik)  # Wynik: 3.5801
